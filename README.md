@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/helaluddin-swe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/helal_uddin_swe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahmedhelaluddin0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,10 +20,17 @@
 - 💡 **Current Focus:** Advanced AI Engineering and High-Performance Backend Systems.
 
 ---
-
 ### 🛠️ Tech Stack & Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,firebase,git,docker,postman,vercel" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,postman,firebase,git,docker,vercel&perline=12" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Stack-MERN-8866ff?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Next.js_14-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 ---
