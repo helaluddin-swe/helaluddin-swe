@@ -26,14 +26,38 @@
 </p>
 
 ---
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> Professional Snapshot
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="40" /> Executive Summary
 
-- 🎨 **Senior Frontend Engineer:** Architecting pixel-perfect, responsive UIs using **Next.js 14**, **Tailwind CSS**, and **Framer Motion**. I specialize in creating "smooth website" experiences with 60fps animations and accessible design.
-- 🚀 **SEO & Performance Expert:** I don't just build; I optimize. Expert in **Core Web Vitals**, **Server-Side Rendering (SSR)**, and **Schema Markup** to ensure your application ranks #1 on Google and loads in under 1 second.
-- 🎓 **Academic Pedigree:** B.Sc. in Computer & Communication Engineering (IIUC) — Graduated with **Distinction (2025)**.
-- 🧠 **AI & Research:** Published researcher in **Computer Vision**; actively integrating LLMs (Gemini/OpenAI) into production-ready EdTech and SaaS platforms.
-- 🏗️ **Core Philosophy:** "Code for Humans, Optimize for Search." I bridge the gap between complex **Backend Architecture** and **SEO-friendly Frontend Experiences**.
-- ⚡ **Impact:** Developer behind **DestinationJobs** and **DestinationBCS**, platforms engineered for high-traffic scalability and organic search growth.
+> **"Bridging the gap between high-performance engineering and search-engine dominance."**
+> I build web ecosystems that aren't just functional—they are found, scaled, and loved.
+
+---
+
+### 🏗️ My Core Pillars
+
+| 🎨 Frontend Engineering | 🚀 SEO & Performance | 🧠 AI & Research |
+| :--- | :--- | :--- |
+| **Architecting 60fps UIs** | **Core Web Vitals Expert** | **Computer Vision Scholar** |
+| Next.js 14 & Tailwind | SSR & Schema Markup | Gemini & OpenAI Integration |
+| Framer Motion Animations | < 1s Load Time Targets | MobileNetV2 Specialist |
+
+---
+
+### 📝 Strategic Impact
+
+* 🎓 **Academic Excellence:** B.Sc. in Computer & Communication Engineering (**IIUC**) — Graduated with **Distinction (2025)**.
+* ⚡ **Production Scale:** Lead developer of **DestinationJobs** and **DestinationBCS**, engineered for massive traffic and organic growth.
+* 🛠️ **Engineering Philosophy:** *"Code for Humans, Optimize for Search."* I prioritize accessibility, clean architecture, and conversion-driven design.
+* 🔬 **Published Insight:** Author of research on **Face Detection & Recognition** using MobileNetV2.
+
+---
+
+### 📈 Performance Benchmarks
+<p align="left">
+  <img src="https://img.shields.io/badge/Lighthouse_Performance-100-brightgreen?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO_Score-100-blue?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accessibility-100-orange?style=flat-square&logo=accessibility&logoColor=white" />
+</p>
 
 
 ---
