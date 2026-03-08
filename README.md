@@ -80,41 +80,53 @@
 ---
 
 ### 💎 Featured Projects
+### 💎 Featured Masterpieces
+
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" /> DestinationJobs</h4>
-      <p><i>A high-performance dual-portal ecosystem for modern recruitment workflows.</i></p>
+      <p><i>A dual-portal recruitment ecosystem with real-time job matching.</i></p>
       <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,tailwind" height="25" />
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,js,tailwind" height="25" alt="tech stack" />
+        <img src="https://img.shields.io/badge/Auth-Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" height="20" />
       </p>
-      <a href="https://github.com/helaluddin-swe/DestinationJobs">
-        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+      <a href="https://github.com/helaluddin-swe/destinationjobs"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://destinationjobs-demo.vercel.app"><img src="https://img.shields.io/badge/Live-0077B5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" /> DestinationBCS</h4>
-      <p><i>Scalable educational platform featuring real-time analytics and competitive leaderboards.</i></p>
+      <p><i>Scalable educational portal with analytics and competitive leaderboards.</i></p>
       <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,mongodb,vercel" height="25" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,tailwind,js" height="25" alt="tech stack" />
+        <img src="https://img.shields.io/badge/Router-React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" height="20" />
       </p>
-      <a href="https://github.com/helaluddin-swe/DestinationBCS">
-        <img src="https://img.shields.io/badge/Live_Demo-FF4B11?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
+      <a href="https://github.com/helaluddin-swe/destinationbcs"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://destinationbcs.com"><img src="https://img.shields.io/badge/Live-FF4B11?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top">
+    <td width="50%" valign="top">
       <br />
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="30" /> AI Thumbnail Maker</h4>
-      <p><i>Revolutionizing content creation with AI-driven visual generation and seamless integration.</i></p>
+      <p><i>Next-gen visual generation using Gemini and OpenAI integration.</i></p>
       <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,openai,ai" height="25" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="25" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" height="25" alt="tech stack" />
+        <img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="20" />
       </p>
-      <a href="https://github.com/helaluddin-swe/AI-Thumbnail-Maker">
-        <img src="https://img.shields.io/badge/Check_Repo-black?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+      <a href="https://github.com/helaluddin-swe/AI-Thumbnail-Maker"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://ai-thumbnail-pro.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <br />
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" /> DestinationLMS</h4>
+      <p><i>AI-powered digital learning platform for programming mastery.</i></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,node,js" height="25" alt="tech stack" />
+        <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" height="20" />
+      </p>
+      <a href="https://github.com/helaluddin-swe/destinationlms"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://destinationlms-demo.vercel.app"><img src="https://img.shields.io/badge/Live-2EA043?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
