@@ -102,7 +102,7 @@
         <img src="https://img.shields.io/badge/Router-React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" height="20" />
       </p>
       <a href="https://github.com/helaluddin-swe/destinationbcs"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://destinationbcs.com"><img src="https://img.shields.io/badge/Live-FF4B11?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://bcs-mu.vercel.app/"><img src="https://img.shields.io/badge/Live-FF4B11?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
