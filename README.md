@@ -9,6 +9,7 @@
   <a href="https://linkedin.com/in/helaluddin-swe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/helal_uddin_swe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:ahmedhelaluddin0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://helaluddinswe.netlify.app/"><img src="https://img.shields.io/badge/Globe-D14836?style=for-the-badge&logo=globe&logoColor=white" /></a>
 </p>
 
 ---
