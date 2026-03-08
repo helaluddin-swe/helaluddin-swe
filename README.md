@@ -82,25 +82,41 @@
 ### 💎 Featured Projects
 <table border="0">
   <tr>
-    <td width="50%">
-      <h4>🌐 DestinationJobs</h4>
-      <p>A dual-portal job seeker and recruiter platform designed for modern HR workflows.</p>
-      <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" />
+    <td width="50%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" /> DestinationJobs</h4>
+      <p><i>A high-performance dual-portal ecosystem for modern recruitment workflows.</i></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,tailwind" height="25" />
+      </p>
+      <a href="https://github.com/helaluddin-swe/DestinationJobs">
+        <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-    <td width="50%">
-      <h4>📚 DestinationBCS</h4>
-      <p>Comprehensive educational portal for competitive exam preparation in Bangladesh.</p>
-      <img src="https://img.shields.io/badge/Next.js-SEO%20Optimized-black?style=flat-square" />
+    <td width="50%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" /> DestinationBCS</h4>
+      <p><i>Scalable educational platform featuring real-time analytics and competitive leaderboards.</i></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,mongodb,vercel" height="25" />
+      </p>
+      <a href="https://github.com/helaluddin-swe/DestinationBCS">
+        <img src="https://img.shields.io/badge/Live_Demo-FF4B11?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
     </td>
-    
   </tr>
- 
-    <td width="100%">
-      <h4>📚 AI thumbnail maker</h4>
-      <p>Thumnail maker is more easy now.Ai can generate thumnail for your videos within a seconds.</p>
-      <img src="https://img.shields.io/badge/Next.js-SEO%20Optimized-black?style=flat-square" />
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <br />
+      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="30" /> AI Thumbnail Maker</h4>
+      <p><i>Revolutionizing content creation with AI-driven visual generation and seamless integration.</i></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,openai,ai" height="25" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="25" />
+      </p>
+      <a href="https://github.com/helaluddin-swe/AI-Thumbnail-Maker">
+        <img src="https://img.shields.io/badge/Check_Repo-black?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-  
+  </tr>
 </table>
 
 ---
