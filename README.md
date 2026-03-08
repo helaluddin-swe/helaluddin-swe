@@ -92,6 +92,11 @@
       <p>Comprehensive educational portal for competitive exam preparation in Bangladesh.</p>
       <img src="https://img.shields.io/badge/Next.js-SEO%20Optimized-black?style=flat-square" />
     </td>
+    <td width="50%">
+      <h4>📚 AI thumbnail maker</h4>
+      <p>Thumnail maker is more easy now.Ai can generate thumnail for your videos within a seconds.</p>
+      <img src="https://img.shields.io/badge/Next.js-SEO%20Optimized-black?style=flat-square" />
+    </td>
   </tr>
 </table>
 
