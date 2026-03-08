@@ -20,18 +20,62 @@
 - 💡 **Current Focus:** Advanced AI Engineering and High-Performance Backend Systems.
 
 ---
-### 🛠️ Tech Stack & Skills
+### 🛠️ Professional Toolbox
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,postman,firebase,git,docker,vercel&perline=12" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Main_Stack-MERN-8866ff?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Next.js_14-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <br />Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br />TS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" />
+      <br />Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br />Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" />
+      <br />Vercel
+    </td>
+  </tr>
+</table>
 
 ---
 
