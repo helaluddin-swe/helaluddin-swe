@@ -6,10 +6,23 @@
 ## <p align="center">🚀 Transforming Complex Logic into Elegant Solutions</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/helaluddin-swe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/helal_uddin_swe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:ahmedhelaluddin0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a href="https://helaluddinswe.netlify.app/"><img src="https://img.shields.io/badge/Globe-D14836?style=for-the-badge&logo=globe&logoColor=white" /></a>
+  <a href="https://helaluddinswe.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://linkedin.com/in/helaluddin-swe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/helal_uddin_swe">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedhelaluddin0330@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> 
+  <b>Let's build something extraordinary together!</b>
 </p>
 
 ---
