@@ -20,7 +20,7 @@
 - 💡 **Current Focus:** Advanced AI Engineering and High-Performance Backend Systems.
 
 ---
-### 🛠️ Professional Toolbox
+### 🛠️ Professional Tech Stack and Tools
 
 <table>
   <tr>
