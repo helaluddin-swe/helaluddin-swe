@@ -1,62 +1,70 @@
-# 🚀 Helal Uddin | Full Stack MERN Developer
+# <p align="center">👋 Hi, I'm Helal Uddin</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20MERN%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
+## <p align="center">🚀 Transforming Complex Logic into Elegant Solutions</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/helaluddin-swe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/helal_uddin_swe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 👤 About Me
+- 🔭 **Expertise:** Over 3 years of building scalable Web Applications.
+- 🎓 **Academic Excellence:** B.Sc. in Computer and Communication Engineering (IIUC) with Distinction (2025).
+- 🔬 **Published Researcher:** Expert in Computer Vision (Face Detection/Recognition with MobileNetV2).
+- 💡 **Current Focus:** Advanced AI Engineering and High-Performance Backend Systems.
+
+---
+
+### 🛠️ Tech Stack & Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3+%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Architecture-orange?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,firebase,git,docker,postman,vercel" />
 </p>
 
-### 💻 Transforming Ideas into High-Performance Digital Reality
-I am a Full Stack Engineer specialized in building robust, SEO-optimized web applications. With a foundation in **Computer and Communication Engineering**, I bridge the gap between complex backend logic and pixel-perfect frontend experiences.
+---
+
+### 💎 Featured Projects
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h4>🌐 DestinationJobs</h4>
+      <p>A dual-portal job seeker and recruiter platform designed for modern HR workflows.</p>
+      <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h4>📚 DestinationBCS</h4>
+      <p>Comprehensive educational portal for competitive exam preparation in Bangladesh.</p>
+      <img src="https://img.shields.io/badge/Next.js-SEO%20Optimized-black?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) |
-| **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman) |
-
----
-
-### 🌟 Featured Projects
-
-#### 🎯 DestinationJobs
-*A dual-portal ecosystem for recruiters and job seekers.*
-* **Tech:** Next.js, Node.js, MongoDB, Tailwind CSS.
-* **Key Feature:** High-performance API integration for real-time resume analysis and job matching.
-
-#### 🎓 DestinationBCS
-*An educational platform designed for competitive exam preparation.*
-* **Tech:** MERN Stack, Redux, JWT Authentication.
-* **Key Feature:** Complex database schema for syllabus tracking and progress analytics.
-
----
-
-### 📊 Github Stats & Activity
+### 📊 Github Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=helaluddin-swe&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=helaluddin-swe&theme=tokyonight" />
 </p>
-
----
-
-### 📝 Latest Achievements & Research
-* **Published Researcher:** "Masked and Unmasked Face Detection" using MobileNetV2 (2025).
-* **Academic Excellence:** B.Sc. in CCE with Distinction.
-* **Continuous Learning:** Deep diving into AI Engineering and LLM-powered applications.
-
----
-
-### 📫 Let's Connect
-I’m currently looking for a **Full Stack Developer** role where I can contribute to meaningful projects. If you have an opening that matches my skill set, let's talk!
-
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helaluddin-swe&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### ⚡ Fun Fact & Philosophy
+> *"Clean code is not just written; it's engineered. My goal is to build software that scales as fast as your business does."*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=helaluddin-swe&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/helaluddin-swe/helaluddin-swe/main/path-to-your-gif.gif" width="100px" /> 
+  </p>
