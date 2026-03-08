@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/Auth-Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" height="20" />
       </p>
       <a href="https://github.com/helaluddin-swe/destinationjobs"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://destinationjobs-demo.vercel.app"><img src="https://img.shields.io/badge/Live-0077B5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://helaluddin-swe-destinationjobs.vercel.app/"><img src="https://img.shields.io/badge/Live-0077B5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" /> DestinationBCS</h4>
@@ -114,8 +114,8 @@
         <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js" height="25" alt="tech stack" />
         <img src="https://img.shields.io/badge/AI-Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="20" />
       </p>
-      <a href="https://github.com/helaluddin-swe/AI-Thumbnail-Maker"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://ai-thumbnail-pro.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/helaluddin-swe/thumbnaillab"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://helaluddin-swe-thumbnaillab.vercel.app/"><img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <br />
