@@ -26,17 +26,20 @@
 </p>
 
 ---
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> Professional Snapshot
 
-### 👤 About Me
-- 🔭 **Expertise:** Over 3 years of building scalable Web Applications.
-- 🎓 **Academic Excellence:** B.Sc. in Computer and Communication Engineering (IIUC) with Distinction (2025).
-- 🔬 **Published Researcher:** Expert in Computer Vision (Face Detection/Recognition with MobileNetV2).
-- 💡 **Current Focus:** Advanced AI Engineering and High-Performance Backend Systems.
+- 🎨 **Senior Frontend Engineer:** Architecting pixel-perfect, responsive UIs using **Next.js 14**, **Tailwind CSS**, and **Framer Motion**. I specialize in creating "smooth website" experiences with 60fps animations and accessible design.
+- 🚀 **SEO & Performance Expert:** I don't just build; I optimize. Expert in **Core Web Vitals**, **Server-Side Rendering (SSR)**, and **Schema Markup** to ensure your application ranks #1 on Google and loads in under 1 second.
+- 🎓 **Academic Pedigree:** B.Sc. in Computer & Communication Engineering (IIUC) — Graduated with **Distinction (2025)**.
+- 🧠 **AI & Research:** Published researcher in **Computer Vision**; actively integrating LLMs (Gemini/OpenAI) into production-ready EdTech and SaaS platforms.
+- 🏗️ **Core Philosophy:** "Code for Humans, Optimize for Search." I bridge the gap between complex **Backend Architecture** and **SEO-friendly Frontend Experiences**.
+- ⚡ **Impact:** Developer behind **DestinationJobs** and **DestinationBCS**, platforms engineered for high-traffic scalability and organic search growth.
+
 
 ---
 ### 🛠️ Professional Tech Stack and Tools
 
-<table>
+<table left="10">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
@@ -94,8 +97,6 @@
 ---
 
 ### 💎 Featured Projects
-### 💎 Featured Masterpieces
-
 <table border="0">
   <tr>
     <td width="50%" valign="top">
